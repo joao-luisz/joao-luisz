@@ -67,12 +67,6 @@ Atualmente focado em resolver problemas de negócio através de **Python**, **SQ
 *   Limpeza de dados (Data Cleaning) e visualização de tendências de compra.
 *   **Techs:** Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook.
 
-### 🎬 [App de Recomendação de Filmes](https://github.com/joao-luisz/app-de-recomendar-filmes)
-> **Foco:** Algoritmos, Manipulação de Dados
-*   Sistema de recomendação baseado em filtragem colaborativa/conteúdo.
-*   Demonstração de aplicação prática de lógica de dados em um produto real.
-*   **Techs:** Python, Scikit-learn, API Integration.
-
 ### 🏢 [SIAS Sistema](https://github.com/joao-luisz/sias-sistema)
 > **Foco:** Desenvolvimento Full Stack, Arquitetura de Software
 *   Sistema robusto de gestão, demonstrando capacidade de construir soluções complexas de ponta a ponta.
