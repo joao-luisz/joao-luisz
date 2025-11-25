@@ -1,9 +1,4 @@
-<!--
-**COMO USAR ESTE ARQUIVO:**
-1. Crie um novo repositório público com o mesmo nome do seu usuário: `joao-luisz/joao-luisz`.
-2. Copie todo o conteúdo abaixo (excluindo este comentário) e cole no arquivo `README.md` desse novo repositório.
-3. Substitua os links e textos onde indicado (ex: links do LinkedIn, Portfolio, etc).
--->
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91E6&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+Jo%C3%A3o+Luis;Data+Analyst+%7C+Full+Stack+Developer;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
