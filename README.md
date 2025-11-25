@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91E6&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+Jo%C3%A3o+Luis;DData+Analyst+%7C+Full+Stack+Developerr;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91E6&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+Jo%C3%A3o+Luis;Data+Analyst;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
 </div>
 
 <div align="center">
