@@ -18,7 +18,7 @@
 
 Sou um **Analista de Dados** formado em Análise e Desenvolvimento de Sistemas (UFC) com background em desenvolvimento Full Stack, o que me permite não apenas analisar dados, mas também construir as ferramentas e integrações necessárias para extraí-los e visualizá-los. 
 
-Atualmente focado em resolver problemas de negócio através de **Python**, **SQL** e **Visualização de Dados**, buscando oportunidades como **Analista de Dados Júnior**.
+Atualmente focado em resolver problemas de negócio através de **Python**, **SQL** e **Visualização de Dados**, buscando oportunidades como **Analista de Dados/BI**.
 
 *   🔭 Atualmente trabalhando em projetos de **Previsão de Demanda** e **Análise de E-commerce**.
 *   🌱 Estudando **Machine Learning** e **Engenharia de Dados**.
