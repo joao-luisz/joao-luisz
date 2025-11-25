@@ -71,18 +71,3 @@ Atualmente focado em resolver problemas de negócio através de **Python**, **SQ
 > **Foco:** Desenvolvimento Full Stack, Arquitetura de Software
 *   Sistema robusto de gestão, demonstrando capacidade de construir soluções complexas de ponta a ponta.
 *   **Techs:** (Adicione as techs aqui, ex: Node.js, React, SQL).
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-luisz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-luisz&layout=compact&theme=dracula"/>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joao-luisz&style=flat-square&color=blueviolet" alt="Profile Views" />
-</div>
