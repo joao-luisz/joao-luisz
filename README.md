@@ -50,6 +50,13 @@ Atualmente focado em resolver problemas de negócio através de **Python**, **SQ
 
 ## 🚀 Projetos em Destaque
 
+### 🏥 [Análise SQL - COVID-19 e Vacinação Brasil](https://github.com/joao-luisz/sql-covid-vacinacao-brasil)
+> **Foco:** SQL Avançado, Dados Públicos, Impacto Social
+*   Análise completa com **30+ queries SQL** (Window Functions, CTEs, Correlações).
+*   Dados reais do OpenDataSUS (Ministério da Saúde).
+*   Insights acionáveis: correlação vacinação x redução de casos, gaps por faixa etária.
+*   **Techs:** SQL (SQLite/PostgreSQL), Python, Pandas.
+
 ### 📊 [Sales Dashboard & Demand Forecasting](https://github.com/joao-luisz/Sales-Dashboard-Demand-Forecasting-PT-BR)
 > **Foco:** Business Intelligence, Previsão de Vendas
 *   Desenvolvimento de dashboard interativo para análise de KPIs de vendas.
