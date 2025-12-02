@@ -62,4 +62,9 @@ Atualmente focado em resolver problemas de negócio através de **Python**, **SQ
 ### 🏢 [SIAS (Sistema de Assistência Social)](https://github.com/joao-luisz/sias-sistema)
 > **Foco:** Desenvolvimento Full Stack, Arquitetura de Software
 *   Sistema robusto de gestão, demonstrando capacidade de construir soluções complexas de ponta a ponta.
-*   **Techs:** (Adicione as techs aqui, ex: Node.js, React, SQL).
+*   **Techs:** Frontend:  React + Vite (Performance extrema)
+                          Linguagem: TypeScript (Segurança e manutenibilidade)
+                          Estilização: Tailwind CSS (Design system consistente)
+                          Backend (BaaS): Supabase (PostgreSQL, Auth, Realtime, Storage)
+                          Ícones: Google Material Symbols
+                          Gráficos: Recharts.
