@@ -57,17 +57,7 @@ Atualmente focado em resolver problemas de negócio através de **Python**, **SQ
 *   Insights acionáveis: correlação vacinação x redução de casos, gaps por faixa etária.
 *   **Techs:** SQL (SQLite/PostgreSQL), Python, Pandas.
 
-### 📊 [Sales Dashboard & Demand Forecasting](https://github.com/joao-luisz/Sales-Dashboard-Demand-Forecasting-PT-BR)
-> **Foco:** Business Intelligence, Previsão de Vendas
-*   Desenvolvimento de dashboard interativo para análise de KPIs de vendas.
-*   Implementação de modelos de previsão de demanda para otimização de estoque.
-*   **Techs:** Power BI, Python, Excel.
 
-### 🛒 [E-commerce Analysis](https://github.com/joao-luisz/ecommerce-analysis)
-> **Foco:** Análise Exploratória (EDA), Insights de Negócio
-*   Análise profunda de dataset de e-commerce para identificar padrões de comportamento do consumidor.
-*   Limpeza de dados (Data Cleaning) e visualização de tendências de compra.
-*   **Techs:** Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook.
 
 ### 🏢 [SIAS (Sistema de Assistência Social)](https://github.com/joao-luisz/sias-sistema)
 > **Foco:** Desenvolvimento Full Stack, Arquitetura de Software
