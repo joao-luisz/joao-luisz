@@ -1,13 +1,11 @@
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91E6&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+Jo%C3%A3o+Luis;Data+Analyst;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/joaolfleite])
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://seu-portfolio.com](https://joao-luisz.github.io/Curriculum-JL/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolfleite)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joao-luisz.github.io/Curriculum-JL/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azjoaoluis7@gmail.com)
 
 </div>
@@ -16,13 +14,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Analista de Dados** formado em Análise e Desenvolvimento de Sistemas (UFC) com background em desenvolvimento Full Stack, o que me permite não apenas analisar dados, mas também construir as ferramentas e integrações necessárias para extraí-los e visualizá-los. 
+Sou um **Analista de Dados** com background em **Engenharia de Software**, o que me permite ir além da análise: eu construo as ferramentas, automações e pipelines necessários para extrair inteligência dos dados.
 
-Atualmente focado em resolver problemas de negócio através de **Python**, **SQL** e **Visualização de Dados**, buscando oportunidades como **Analista de Dados/BI**.
+Atualmente focado em resolver problemas de negócio complexos utilizando **Python**, **SQL** e **Power BI**. Minha abordagem combina rigor estatístico com a capacidade técnica de um desenvolvedor Full Stack.
 
-*   🔭 Atualmente trabalhando em projetos de **Previsão de Demanda** e **Análise de E-commerce**.
-*   🌱 Estudando **Machine Learning** e **Engenharia de Dados**.
-*   💡 Acredito que dados sem contexto são apenas números; meu objetivo é contar a história por trás deles.
+*   🔭 **Trabalhando em:** Projetos de Previsão de Demanda e Análise de E-commerce.
+*   🌱 **Estudando:** Machine Learning (Scikit-learn) e Engenharia de Dados (ETL Pipelines).
+*   💡 **Filosofia:** Dados sem contexto são apenas números; meu objetivo é contar a história por trás deles para embasar decisões.
 
 ---
 
@@ -51,20 +49,29 @@ Atualmente focado em resolver problemas de negócio através de **Python**, **SQ
 ## 🚀 Projetos em Destaque
 
 ### 🏥 [Análise SQL - COVID-19 e Vacinação Brasil](https://github.com/joao-luisz/sql-covid-vacinacao-brasil)
-> **Foco:** SQL Avançado, Dados Públicos, Impacto Social
-*   Análise completa com **30+ queries SQL** (Window Functions, CTEs, Correlações).
-*   Dados reais do OpenDataSUS (Ministério da Saúde).
-*   Insights acionáveis: correlação vacinação x redução de casos, gaps por faixa etária.
-*   **Techs:** SQL (SQLite/PostgreSQL), Python, Pandas.
+> **Problema de Negócio:** Entender a correlação real entre o avanço da vacinação e a queda de casos graves para validar políticas públicas.
 
+*   **Solução:** Processamento de 5GB+ de dados do OpenDataSUS.
+*   **Técnicas:** 30+ queries SQL complexas (Window Functions, CTEs, Correlações).
+*   **Resultado:** Identificou correlação de -0.85 em grupos de risco e mapeou gaps regionais de distribuição.
+*   **Stack:** SQL (PostgreSQL), Python, Pandas.
 
+<br>
 
 ### 🏢 [SIAS (Sistema de Assistência Social)](https://github.com/joao-luisz/sias-sistema)
-> **Foco:** Desenvolvimento Full Stack, Arquitetura de Software
-*   Sistema robusto de gestão, demonstrando capacidade de construir soluções complexas de ponta a ponta.
-*   **Techs:** Frontend:  React + Vite (Performance extrema)
-                          Linguagem: TypeScript (Segurança e manutenibilidade)
-                          Estilização: Tailwind CSS (Design system consistente)
-                          Backend (BaaS): Supabase (PostgreSQL, Auth, Realtime, Storage)
-                          Ícones: Google Material Symbols
-                          Gráficos: Recharts.
+> **Problema de Negócio:** Falta de centralização e integridade nos dados de beneficiários de programas sociais.
+
+*   **Solução:** Sistema full stack robusto para gestão unificada de cadastros.
+*   **Destaque Técnico:** Arquitetura escalável com validação de dados rigorosa (Data Quality) na entrada.
+*   **Stack:**
+    *   **Frontend:** React + Vite (Performance)
+    *   **Linguagem:** TypeScript (Segurança de tipos)
+    *   **Estilo:** Tailwind CSS
+    *   **Backend/DB:** Supabase (PostgreSQL, Auth)
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-luisz&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-luisz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
