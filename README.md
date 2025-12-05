@@ -76,7 +76,7 @@ portfolio_snippet.md
 scod
 
 
-### 📊 [Análise de Dados - Cadastro Único Uruburetama]((https://github.com/joao-luisz/Analise-CadUnico))
+### 📊 [Análise de Dados - Cadastro Único Uruburetama](https://github.com/joao-luisz/Analise-CadUnico)
 > **Problema de Negócio:** Necessidade de transformar dados brutos governamentais em inteligência acionável para mapeamento de vulnerabilidade social e otimização de políticas públicas.
 *   **Solução:** Pipeline de dados "end-to-end" simulando ambiente corporativo: da ingestão e limpeza (ETL) até o dashboard estratégico.
 *   **Destaque Técnico:** Arquitetura de dados escalável com modelagem dimensional (Star Schema) e pipeline de ETL automatizado com Python.
