@@ -14,9 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Analista de Dados** com background em **Engenharia de Software**, o que me permite ir além da análise: eu construo as ferramentas, automações e pipelines necessários para extrair inteligência dos dados.
-
-Atualmente focado em resolver problemas de negócio complexos utilizando **Python**, **SQL** e **Power BI**. Minha abordagem combina rigor estatístico com a capacidade técnica de um desenvolvedor Full Stack.
+Analista de Dados com background em Engenharia de Software e forte viés analítico. Especialista em transformar dados brutos em insights acionáveis utilizando Python (Pandas, Scikit-learn), SQL e Power BI. Combino rigor estatístico com capacidade técnica de automação para otimizar processos e suportar tomadas de decisão estratégicas.
 
 *   🔭 **Trabalhando em:** Projetos de Previsão de Demanda e Análise de E-commerce.
 *   🌱 **Estudando:** Machine Learning (Scikit-learn) e Engenharia de Dados (ETL Pipelines).
